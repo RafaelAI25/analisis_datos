@@ -1,7 +1,7 @@
 # analisis_datos
 Actividad: Simulación de desarrollo colaborativo en Python usando Git
 
-Objetivo:
+Objetivo Nuevo:
 Practicar el uso de Git en un entorno colaborativo, simulando el desarrollo de un proyecto en Python. Los alumnos trabajarán en equipo usando Colab y Anaconda, dividiéndose tareas y aplicando control de versiones.
 
 Descripción del proyecto:
